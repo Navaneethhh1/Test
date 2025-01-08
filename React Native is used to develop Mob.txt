@@ -1,0 +1,9 @@
+React Native is used to develop Mobile applicaitons
+Electron js is used to develop Desktop applicaitons
+React.js is used to develop web applicaitons
+
+
+
+1). What is JavaScript?
+It is used to convert static page into dynamic page.
+

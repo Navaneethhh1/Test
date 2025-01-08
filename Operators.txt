@@ -1,0 +1,3 @@
+Arithmetic : + - * /
+Exponential : **
+Inccrement or Decrement: ++ , --
